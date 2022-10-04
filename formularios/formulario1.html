@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" >
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <title>Ejercicio-Formularios</title>
+  </head>
+  <body>
+    <p>Formulario Alumno</p>
+    <form action="alumnoSMRC.php" method="get">
+    <fieldset>
+        <legend>Datos Personales</legend>
+      <p>Nombre: <input type="text" name="nombre" size="30" ></p>
+      <p>Edad: <input type="number" name="edad" ></p>
+      <p>
+        contraseña: <input type="password" name="contraseña" size="30" >
+      </p>
+      <p>
+        Fecha de nacimiento:
+        <input type="date" name="Fecha" >
+      </p>
+      <p>Foto <input type="file" name="foto" ></p>
+      <p>Color favorito <input type="color" name="color-favorito" ></p>
+
+      <p>
+        Sexo:
+        <input type="radio" name="hm" value="h" >
+        Hombre
+        <input type="radio" name="hm" value="m" >
+        Mujer
+      </p>
+    </fieldset>
+    <fieldset>
+      <legend>comentarios:</legend>
+      <textarea
+        placeholder="Escribe aquí"
+        name="comentarios"
+        id="comentarios"
+        cols="30"
+        rows="10"
+      ></textarea>
+    </fieldset>
+      <p>
+        <input type="submit" value="Enviar" >
+        <input type="reset" value="Borrar" >
+      </p>
+    </form>
+  </body>
+</html>
