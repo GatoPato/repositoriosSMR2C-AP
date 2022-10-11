@@ -1,0 +1,20 @@
+*{
+    color: black;
+}
+h1{
+    color: yellow;
+    background-color: green;
+}
+body{
+    background-color: blueviolet;
+}
+p.parrafosprincipales{
+    color: azure;
+}
+
+p.parrafossegundos{
+    color: red;
+}
+#parrafoh3{
+    color: green;
+}
