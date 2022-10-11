@@ -26,3 +26,6 @@ h1 em{
 p em{
     color: brown;
 }
+p mark{
+        background-color: aquamarine;
+}
