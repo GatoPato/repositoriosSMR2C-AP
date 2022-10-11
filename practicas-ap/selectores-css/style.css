@@ -18,3 +18,11 @@ p.parrafossegundos{
 #parrafoh3{
     color: green;
 }
+
+h1 em{
+    color: antiquewhite;
+}
+
+p em{
+    color: brown;
+}
