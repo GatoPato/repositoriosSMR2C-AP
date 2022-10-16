@@ -1,8 +1,9 @@
 h1{
+    text-align: center;
     background-color: antiquewhite;
 }
 
-ol{
+ol.listasuno{
     width: 200px;
     height: 100px;
     box-sizing: content-box;
