@@ -1,0 +1,18 @@
+h1{
+    background-color: antiquewhite;
+}
+
+ol{
+    width: 200px;
+    height: 100px;
+    box-sizing: content-box;
+    border: rebeccapurple 25px solid;
+}
+ol.listasdos{
+    width: 200px;
+    height: 100px;
+    border: red 25px solid;
+    padding: 20;
+    margin: 30px;
+}
+
