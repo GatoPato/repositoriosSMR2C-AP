@@ -3,6 +3,11 @@ h1{
     background-color: antiquewhite;
 }
 
+p{
+    background-color: aquamarine;
+    letter-spacing: 5px;
+}
+
 ol.listasuno{
     width: 200px;
     height: 100px;
@@ -14,12 +19,29 @@ ol.listasdos{
     width: 200px;
     height: 100px;
     font-style: italic;
-    height: 40;
-    width: 30;
     border: red 25px solid;
     padding: 20;
     margin: 30px;
 }
 
+dt.rojos{
+            border: wheat 15px solid;
+            text-align: center;
+            font-style: italic;
+            font-size: large;
+}
+
+dd{
+    border: violet 10px solid;
+    height: 150px;
+
+}
+
+dt.gigantes{
+            border: wheat 15px solid;
+            text-align: center;
+            font-style: italic;
+            font-size: large;
+}
 
 
