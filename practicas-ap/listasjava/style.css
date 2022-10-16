@@ -6,12 +6,16 @@ h1{
 ol.listasuno{
     width: 200px;
     height: 100px;
+    font-size: medium;
     box-sizing: content-box;
     border: rebeccapurple 25px solid;
 }
 ol.listasdos{
     width: 200px;
     height: 100px;
+    font-style: italic;
+    height: 40;
+    width: 30;
     border: red 25px solid;
     padding: 20;
     margin: 30px;
