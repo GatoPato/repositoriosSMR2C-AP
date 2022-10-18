@@ -43,5 +43,7 @@ dt.gigantes{
             font-style: italic;
             font-size: large;
 }
-
+ul{
+    list-style-image: url();
+}
 
