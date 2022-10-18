@@ -1,4 +1,12 @@
+body{
+    border-style: solid;
+    border-color: aqua;
+    background-color: antiquewhite;
+}
+
 h1{
     background-color: palevioletred;
     text-align: center;
+    border-style: solid;
+    border-color: blue;
 }
