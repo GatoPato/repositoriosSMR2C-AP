@@ -3,10 +3,15 @@ body{
     border-color: aqua;
     background-color: antiquewhite;
 }
-
 h1{
+    color: brown;
     background-color: palevioletred;
     text-align: center;
     border-style: solid;
     border-color: blue;
+    border-width: 4px;
+}
+p{
+    border: black solid 1em;
+   font-family: sans-serif;
 }
