@@ -1,0 +1,22 @@
+span.gotam{
+    color:red;
+    font-style: oblique;
+}
+hr{
+    width: 30%;
+    height: 10px;
+    background-color: aqua;
+    border: red 2px solid;
+}
+
+#humano {
+    color: blue;
+
+}
+
+span.negrita{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+/* soy la autora */
