@@ -44,6 +44,6 @@ dt.gigantes{
             font-size: large;
 }
 ul{
-    list-style-image: url();
+    list-style-image: url("image/tick1.jpg");
 }
 
