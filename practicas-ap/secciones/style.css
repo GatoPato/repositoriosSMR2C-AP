@@ -2,3 +2,15 @@ li{
     list-style: none;
     display: inline;
 }
+header{
+    height: 20%;
+    background-color: aqua;
+}
+nav{
+    height: 60%;
+    background-color: antiquewhite;
+}
+footer{
+    height: 20%;
+    background-color: green;
+}
