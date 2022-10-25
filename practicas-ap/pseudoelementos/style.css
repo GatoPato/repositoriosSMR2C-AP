@@ -1,0 +1,20 @@
+h1{
+    color: blueviolet;
+}
+
+main p:first-child{
+    color: brown;
+}
+
+p.verde{
+    color: green;
+}
+
+a:link{
+    color: brown;
+    background-color: blanchedalmond;
+}
+a:visited{
+    color: blueviolet;
+    background-color: aqua;
+}
