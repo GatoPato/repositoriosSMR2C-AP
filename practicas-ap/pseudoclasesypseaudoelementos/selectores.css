@@ -1,0 +1,58 @@
+h1{
+    color: blueviolet;
+}
+
+main p:first-child{
+    color: brown;
+}
+
+p.verde{
+    color: green;
+}
+
+a:link{
+    color: brown;
+    background-color: blanchedalmond;
+}
+
+a:visited{
+    color: yellow;
+    background-color: black;
+}
+
+a:hover{
+    background-color: blue;
+}
+.parrafo2:hover{
+    background-color: aqua;
+    color: brown;
+}
+
+a:active{
+    font-size: xx-large;
+}
+input:focus{
+    background-color: blue;
+    border: red 3px double;
+}
+cite:lang(es){
+    color: blue;
+}
+cite:lang(en){
+    color: blueviolet;
+}
+.linea::first-line{
+    color: aquamarine;
+    text-transform: uppercase;
+}
+p.parrafo4::first-line{
+    text-transform: capitalize;
+    background-color: brown;
+    color: white;
+}
+p.parrafo3::first-letter{
+    color: green;
+    font-weight: 100;
+    font-style: oblique;
+    font-size: xx-large;
+}
