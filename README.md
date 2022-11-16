@@ -1,2 +1,2 @@
-# repositoriosSMR2C-AP
+# Ejercicios_1EVAL_HTMLyCSS_APPWEB_2smrc_jenymunoz
 Repositorios de aplicaciones web
